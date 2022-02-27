@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The butchers blessing, or The bloody intentions of Romish cavaliers against the city of London above other places, demonstrated by 5. arguments, to the Right Honourable the Lord Major, the sheriffes, and other the religious and worthy inhabitants of the said city. / Delivered by way of prologue before a sermon the last publique fast-day, by J: Goodwin.</title>
+            <author>Goodwin, John, 1594?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85385</idno>
+            <idno type="STC">Wing G1152</idno>
+            <idno type="STC">Thomason E242_4</idno>
+            <idno type="STC">ESTC R6595</idno>
+            <idno type="EEBO-CITATION">99873013</idno>
+            <idno type="PROQUEST">99873013</idno>
+            <idno type="VID">125460</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125460)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E242[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The butchers blessing, or The bloody intentions of Romish cavaliers against the city of London above other places, demonstrated by 5. arguments, to the Right Honourable the Lord Major, the sheriffes, and other the religious and worthy inhabitants of the said city. / Delivered by way of prologue before a sermon the last publique fast-day, by J: Goodwin.</title>
+                  <author>Goodwin, John, 1594?-1665.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Overton, and are to be sold at his shop in Popes-head Alley,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "nouemb. 4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125460:1"/>
+            <p>THE
+Butchers Bleſsing,
+<hi>OR
+THE BLOODY INTENTIONS</hi>
+Of Romiſh CAVALIERS againſt the
+City of LONDON above other places,
+Demonſtrated by 5. <hi>Arguments,</hi>
+            </p>
+            <p>To the Right Honourable the Lord Major,
+the Sheriffes, and other the religious and worthy
+Inhabitants of the ſaid CITY.</p>
+            <p>Delivered by way of <hi>Prologue</hi> before a <hi>Sermon</hi>
+the laſt publique FAST-DAY,</p>
+            <p>
+               <hi>By</hi> J: GOODWIN.</p>
+            <q>
+               <bibl>GENESIS, 19. 9.</bibl>
+               <p>And they ſaid, ſtand back: and they ſaid againe, this one fellow
+came in to Sojourne, and hee will needs be a Judge; now will we
+deale worſe with thee, then with them.</p>
+            </q>
+            <q>
+               <l>Sic ego torrentem, qua nil obſtabat eunti,</l>
+               <l>Lenius, et modico ſtrepitu decurrere vidi:</l>
+               <l>At quacun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> trabes, obſtracta<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſaxa jacebant,</l>
+               <l>Spumeus, et fervens, et ab obice ſaevior ibat.</l> 
+               <bibl>Ovid. Met.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi>
+Printed for HENRY OVERTON, and are to be ſold
+at his Shop in <hi>Popes-head Alley,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:125460:2"/>
+            <pb n="1" facs="tcp:125460:2"/>
+            <head>Right Honourable, Right Worſhipfull,
+and you the reſt of the worthy Inhabitants
+of this great and famous CITY.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O engage you all as one man, to riſe up at once in
+your might, for the preſervation and defence, aſ<g ref="char:EOLhyphen"/>well
+of your ſelves, as of your City, againſt that
+whirlewind of cruelty and blood, which rends
+and teares the Kingdom in pieces where it falls.
+You ſhall do well to conſider; That your ſelves
+in particular, and this your City, are the great
+hatred and wrath and indignation of theſe men:
+What they have done unto others, whether great or ſmall, in waies
+of hoſtility, violence and blood, throughout the Land, they have
+done it chiefly in relation to you and your ruine; all the Moun<g ref="char:EOLhyphen"/>taines
+they have caſt downe, and the valleys they have fild up, have
+bin to prepare themſelves away to you and your City. They have
+practiſed in cruelty hitherto, and train'd up their right hand in
+blood, that by that time they come to you, they may be Butchers
+by occuppation: they have taught their right hand terrible things
+againſt others, that their right hand might teach them terrible
+things againſt you: they have forc'd a diſpoſition of cruelty upon
+themſelves, to practiſe cruell things upon others, that ſo by cuſtom
+it might become naturall to them, by that time they ſhall come to
+doe execution upon you. They have tempred a cup, the mixture
+whereof is red and they powre out hereof daily, but you are their
+wicked ones that muſt be made to wring out the draggs thereof,
+&amp; to drinke them up. The rods wherewith they chaſtiſe your Bre<g ref="char:EOLhyphen"/>thren
+elſewhere favourers of the ſame cauſe with you, will (you
+muſt looke) be turned into Scorpions when they come to you:
+and if <hi>Cheſhire</hi> and <hi>Shropſhire</hi> and other parts of the Land have bin
+puniſhed ſeven-fold, <hi>London</hi> (doubtleſſe) ſhall be puniſhed ſeventy
+times ſeven fold if they ſhall enter and poſſeſſe the Gates thereof.
+Theſe heights and depths of their rage and fury againſt you and
+your City are demonſtrable upon theſe 5 grounds.</p>
+            <p>Firſt, That purity of Religion, which is a ſcourge in their
+<pb n="2" facs="tcp:125460:3"/>
+ſides, and thornes in their eyes, hath its Throne amongſt you. That
+generation, which is the great abhorring of their ſoules, I meane
+the generation of the righteous, of men and women feareing God,
+which are in other places by tens and by fifties are with you by
+hundreds and by thouſands, your gleanings of them are better then
+the Vintage of other places; your City is a Sanctuary unto them,
+and place of refuge from all their quarters: you are looked upon as
+the great friend, and favourers and protectors of them: You and
+your City have been the great Bullwark againſt thoſe Prelaticall
+invaſions, wherewith the Kingdom was ſo ſorely infeſted and an<g ref="char:EOLhyphen"/>noyed
+of late, and wherewith the truth and purity of Religion
+profeſſed in it, was in danger of being turned upſide downe, Had
+not this City of yours bin a morſell too big for them to ſwallow,
+had it not ſtuck ſo long in their Throates as it did: the whole
+Kingdom would have gon down merrily without any ſtraining;
+but now this ſticking in their throat as it did, hath cauſed them
+to vomit and caſt up what they had devoured otherwiſe. And this
+(doubtleſſe) is one maine ground and cauſe of their advancing and
+heightening themſelves in malice, and purpoſes of revenge againſt
+you: you are the principall ſhield and Buckler of that Religion
+which they labour to deſtroy and roote up root and branch, not
+out of the Land only, but out of the whole world, if it were in
+their power.</p>
+            <p>Secondly, You and your City are look'd upon, as the chiefe
+protection and ſafeguard of that Honourable Aſſembly and Court
+of Parliament, and thoſe worthy Members thereof who have not
+prevaricated, or turned head upno the Kingdome, and the great
+truſt repoſed in them but ſtand by the cauſe they have undertaken
+againſt all the fierie encounters and oppoſitions both of men and
+Divells. Theſe being the men, whoſe blood muſt be the ranſome
+of theſe Sonnes of <hi>Belial,</hi> if ever they be redeemed out of the hand
+of death and condemnation, which they have drawne upon their
+heads by thoſe deſperate courſes they have run, and you being the
+men (as they judge and herein judge not much amiſſe) that chiefe<g ref="char:EOLhyphen"/>ly
+ſtand between them and their ranſome, and will not ſuffer
+them to drink that blood that ſhould heale them: You can expect
+none other but that that Spirit of malice and blood which poſſeſ<g ref="char:EOLhyphen"/>ſeth
+them, ſhould rage and roare againſt you more then others, and
+that the furnace of their indignation ſhall be het ſeven times hot<g ref="char:EOLhyphen"/>ter
+then ordinary for your burning; when men are bent and have
+any ſtrong deſires to offer violence or doe miſchiefe unto others,
+and are oppoſed in the execution of their deſires herein, it is com<g ref="char:EOLhyphen"/>monly
+<pb n="3" facs="tcp:125460:3"/>
+found, that they double the ſtrength of their deſires to doe
+miſchiefe to thoſe that oppoſe them in ſuch a way, above the de<g ref="char:EOLhyphen"/>ſires
+they had of doing miſchiefe to thoſe others. Thus the men of
+<hi>Soaom,</hi> having an <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to offer violence to thoſe two men (as
+they ſuppoſed them to be) that were come to <hi>Lots</hi> Houſe, and <hi>Lot</hi>
+interpoſing himſelfe to prevent and inner the execution of thoſe
+evill intentions, they threatned him, that <hi>they would deale worſe with
+him, then they would with them,</hi> Gen. 19. 9. and the reaſon hereof is
+plaine; becauſe men ſeldom deſire any thing with ſo great a deſire,
+as they do not to be oppoſed or hindred in the proſecution of their
+deſires: They can more willingly quit their deſires of many things
+which yet pleaſe them, freely and of themſelves, then they can
+indure ſtrongly to be oppoſed and interrupted in the ſatisfaction of
+them: This then is another reaſon, why you ſhould be the height
+of their malice and revenge.</p>
+            <p>Thirdly, They know that you and your City are the Parents
+(as it were) that have begotten and brought forth all that oppoſi<g ref="char:EOLhyphen"/>tion
+which hath appeared elſewhere, or been raiſed againſt them
+and their proceedings in the Land: that it hath bin <hi>your zeale,</hi> in
+raiſing men and armes and moneys, <hi>that hath provoked</hi> multitudes in
+the Land to doe likewiſe. They look upon others as partly paſsive
+in that very activeneſſe wherein they have declared themſelves a<g ref="char:EOLhyphen"/>gainſt
+them, &amp; ſo make them (it's like) an allowance accordingly in
+their hatred and thoughts of revenge againſt them. But upon you
+they look not onely as merely active againſt them out of an inward
+principle of your owne, but as actuating and animating others alſo.
+And therefore what they deduct from, or abate in their hatred to<g ref="char:EOLhyphen"/>wards
+theſe, they will adde to their hatred and malice againſt you:
+you muſt looke to pay for your ſelves and for your Children too.
+Men uſe to be more mercifull to thoſe that are drawn by others to
+practiſe evill againſt them, in caſe they come under their power,
+then to thoſe that provoke and whet them on to doe it. God him<g ref="char:EOLhyphen"/>ſelf
+laid a heavier puniſhment upon <hi>Eve,</hi> then he did upon <hi>Adan,</hi> be<g ref="char:EOLhyphen"/>cauſe
+ſhe was the temptreſſe, and partly by her example, partly by
+her ſolicitation wrought upon his infirmitie, and drew him into
+part and fellowſhip with her in the ſinne. Your righteouſneſſe, is
+their ſinne.</p>
+            <p>Fourthly you are the great <hi>remora</hi> &amp; barre in the way of their pro<g ref="char:EOLhyphen"/>ceedings
+you ſeperate between them &amp; their deſires, between them
+&amp; their ſo dearely beloved ends: there is a contrary gale blowes ſo
+ſtrong and ſtiff from your quar<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er that, they cannot make he port
+or Haven, that they have been bound for this long time; You are
+<pb n="4" facs="tcp:125460:4"/>
+they that multiply their ſorrowes, and increaſe their paines in
+bringing forth: you make them buy their gold at a dearer rate, then
+they are willing and had hope to have bought it: you keep them ſtill
+in the ſweat of their brows, wheras they had hoped before this, to
+have bin eating their bread. You are to them as <hi>Moracats</hi> ſitting in
+the Gate was to <hi>Haman,</hi> all his honour and greatnes and favour
+with the King, <hi>did not availe him,</hi> hee was not himſelfe for all his
+great enjoyments becauſe <hi>Mordacai</hi> was not yet brought under,
+to likc the duſt at his feet: ſo all the ſucceſſe that theſe men
+have in other parts of the Land, their plundering of this town
+and of that, all the rapine and ſpoile they have made, all the prey
+&amp; booty they have taken their ſeizing upon this man &amp; upon that,
+in a word, all that they have done or have hope to doe otherwiſe,
+will give them little ſatisfaction, will not make them fat, ſo long as
+you and your City are in peace, and able to withſtand them. And
+therefore as <hi>Haman</hi> hated <hi>Mordicei</hi> more then all the nation of the
+Jewes beſides, and ſought the ruine and deſtruction of theſe only or
+chiefly by way of ſubordination and reference to his (as appeares by
+the Story) for he had no quarrell to them, but for <hi>Mordicais</hi> ſake,
+and upon occaſion of that offence given by him. Even ſo (doubtles)
+thoſe men of wickedneſſe we ſpeak of burne in hatred and deſires of
+revenge againſt you, more then they doe againſt all other places in
+the Land beſides: and what outrages and inſolencies of violence
+they practiſe elſewhere is chiefly to accommodate and ſtrengthen
+their hand, and to be ſubſervient unto them for the rapine and ru<g ref="char:EOLhyphen"/>ine
+of you and your Citie. Their plundering and pillaging and
+ſpoyling in other places, is but the tuneing of their inſtruments, the
+plundering and pillaging of you, would be playing out of their ſong
+or dittie: were it not for you, they might have all things according
+to their hearts deſire: they might eate thoſe apples their ſoules ſo
+much luſt after, they might feed fat upon the ſweet bread of Ro<g ref="char:EOLhyphen"/>miſh
+ſuperſtitions and Doctrines. They might have Organs and
+Altars, Cringings and Crouchings, they might have Copes and
+Surpliſſes, Wafers and Tapers Crucifixes and Croſſes, Pilgrimages
+and Pictures, with all the accourements, and the whole prophane
+glory of the Romiſh Sinagogue. Were it not for you, they might
+have Lucifer put againe into Heaven, and Angels of light thrown
+downe into Hell inſtead of him; Prelates I meane reſtored to their
+former thrones and dignities and faithfull Miniſters of the Goſpell
+the great troublers of the Iſraell of the Divel, troden and trampled
+on like clay and mire in the ſtreets: they might were it not for you
+have every man of them a doore open: which leadeth to his hearts
+deſire. They that deſired to live looſely; might do it without pay<g ref="char:EOLhyphen"/>ing
+<pb n="5" facs="tcp:125460:4"/>
+any tribute of being checked or reproved for it: and ſo they that
+had a mind to live prophanely, to oppreſſe, to tyrannize, to be drunk<g ref="char:EOLhyphen"/>en
+to be uncleane, &amp;c. they might have gon roundly to Hell every
+man his way no man asking them why do you ſo, which (indeed) is
+the ſum of all happineſſe that theſe men deſire or ſeeke after. Wher<g ref="char:EOLhyphen"/>as
+you and your Citie not being made their footſtoole, they can<g ref="char:EOLhyphen"/>not
+get up into thoſe thrones; the ſummer fruits that their ſoules
+ſo much luſt after, do not ripen becauſe of the cold aire that breaths
+upon them from your City. So that it is no marveile, if the ſpoile
+and ruine of your City, be the firſt borne of all the deſignes of their
+rage and crueltys You are the heire that ſtand betweene them and
+the inheritance, if they can kill you, the inheritance ſhall be theirs.</p>
+            <p>Fiftly and laſtly, you and your City are looked upon as the great
+Magazine of wealth, riches, &amp; treaſure in the Kingdom: the garden
+of the <hi>Heſperides,</hi> where the trees grow that beare the golden apples,
+is known to be compaſſed about with the walls of your City. Now
+the love of theſe men is ſo above meaſure exceſsive to your Silver
+and gold, their ſoules cleave ſo to it, that except you will give it
+them into their boſomes quietly, and in a way of peace, they muſt
+needs, though with the extreameſt perill and hazard of their owne
+lives, attempt yours, for your moneys ſake. This wine of yours
+looks ſo red and pleaſantly in the glaſſe upon them; that their hearts
+are inflamed with it: yea the zeale of it hath ſo farre eat them up
+that they cannot live without it; you muſt give it them, you muſt
+let them have it one way or other, or elſe they die. And therfore
+their reſolution to make the adventure howſoever upon you, may
+well be like that of the foure Lepers (2 <hi>King.</hi> 7. 5.) to adventure
+themſelves into the camp of the <hi>Aramites;</hi> If they ſate ſtill, or if
+they went into the Citie, they were certainely dead: and if they
+went amongſt the <hi>Aramites,</hi> if the worſt came to the worſt, <hi>they
+could but die;</hi> but by making the attempt they might poſsibly live;
+ſo that deſperate Generation we ſpeak of, being not able to live, not
+knowing how to doe, how to ſubſiſt without the ſpoile of your Ci<g ref="char:EOLhyphen"/>tie,
+and the poſſeſsion of your treaſure looking upon themſelves as
+dead men without it, may in a way of ordinary diſcourſe and rea<g ref="char:EOLhyphen"/>ſon,
+come to this iſſue in point of reſolution againſt you, to make
+the attempt and venture upon you howſoever, if they ſhall miſcary
+inmaking the attempt, they were but dead men if they ſhall ſit ſtill
+and make no attempt upon you, they were but dead men neither:
+and this was more certainly death, then the other, in making the
+attempt they might (haply) proſper and ſo live, you have this paſ<g ref="char:EOLhyphen"/>ſage,
+2 <hi>Chron.</hi> 14. 14. that <hi>Aſa</hi> and his men ſpoiled all the Cities of
+<pb n="6" facs="tcp:125460:5"/>
+the <hi>Ethiopians,</hi> for this reaſon, <hi>becauſe their was much in them: And they
+ſpoiled all the Cities</hi> (ſaith the text) <hi>for there was exceeding much ſpoile in
+them.</hi> The aboundance of wealth and treaſure in them, was the
+reaſon why they were plundered and ranſack'd and deſtroyed.
+Plenty of ſilver and gold are of dangerous conſequence and influ<g ref="char:EOLhyphen"/>ence,
+to advance the courage and reſolutions of enemies; to turne
+weak men into ſtrong, and cowards and ſuch as are fearefull other<g ref="char:EOLhyphen"/>wiſe,
+into men of valour and reſolution. So that now this is ano<g ref="char:EOLhyphen"/>ther
+reaſon very conſiderable, why you and your Cities above all
+other perſons or places in the Kingdome ſhould be predeſtinated to
+ſpoile and ruine in theſe mens councels, intentions and decrees: be<g ref="char:EOLhyphen"/>cauſe
+in other places they can but gleane; but here they know they
+ſhall have a full harveſt.</p>
+            <p>Now then, it being a thing ſo apparent and evident upon theſe
+reaſons (and many more poſsible of like importance might be added)
+that you and your City are principally intended for the great ſacri<g ref="char:EOLhyphen"/>fice
+to be offered upon the ſervice of the rage, malice, hatred and
+cruelty of theſe men, doth it not concerne you in ſpeciall manner;
+more then all the Kingdome beſides, to looke about you, and quit
+your ſelves like men, yea and more then like men (if it were poſsible)
+to caſt if it were your whole ſubſtance into the treaſurie of your
+preſervation and peace? Let any thing you ſhall keep back of what
+is in your power to do or give for the advancement of the great ſer<g ref="char:EOLhyphen"/>vice
+that hath been recomended unto you, every time you ſee it or
+thinke upon it, be as an <hi>omen</hi> or preſage unto you, of the loſſe and
+ſpoile of your City, if you ſhall ſtill detaine it. You know that
+wheras ordinarily men uſe to cut or clip their haire with ſheeres or
+ſiſſers, in ſome diſeaſes which are dangerous and violent, they ſhave
+it cloſe with a razor preferring baldneſſe and nakedneſſe for a time,
+before loſſe of life. In like manner, though moderation and ſobri<g ref="char:EOLhyphen"/>ety
+of expence bee the commendation of wiſe men at other times;
+yet caſes of exigencie alter the rule, and make any thing leſſe then
+what men are able to doe with their utmoſt might, extremity of
+weakneſſe and miſpriſion. Nothing leſſe then all things, is like to
+doe any thing.</p>
+            <epigraph>
+               <q>
+                  <l>Vt jugulent homines, ſurgunt de nocte, Latrones.</l>
+                  <l>Vt teipſum ſerves, non expergiſceris?</l>
+               </q>
+               <bibl>Horat.</bibl>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
